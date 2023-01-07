@@ -14,11 +14,15 @@
 
 #### [Homepage](https://nightwatchjs.org) &bullet; [Developer Guide](https://nightwatchjs.org/guide) &bullet; [API Reference](https://nightwatchjs.org/api) &bullet; [About](https://nightwatchjs.org/about) &bullet; [Blog](https://nightwatchjs.org/blog)
 
-Nightwatch is an integrated testing framework powered by Node.js and using the [W3C Webdriver API](https://www.w3.org/TR/webdriver/). It is a complete testing solution developed at [BrowserStack](https://www.browserstack.com/) and which can be used for: 
+Nightwatch is an integrated testing framework powered by Node.js and using the [W3C Webdriver API](https://www.w3.org/TR/webdriver/). It is the complete testing solution, developed at [BrowserStack](https://www.browserstack.com/). 
 
-☑️ end-to-end testing of web applications and websites<br>
-☑️ component testing in isolation (Storybook / React / Vue / Vite)<br>
-☑️ Node.js unit and API testing
+Nightwatch is trusted by thousands of software teams around the world since 2014 and it is used for: 
+
+☑️  **End-to-end testing** of web applications and websites<br>
+☑️  **Component testing** in isolation (_Storybook_ / _React_ / _Vue_ / _Vite_)<br>
+☑️  **Mobile app** testing (**since** in v2.6 ✨)<br>
+☑️  **API testing** with _Supertest_<br>
+☑️  **Unit testing** of Node.js projects and libraries
 
 ## ⚙️ Get started with Nightwatch in 60 seconds
 
