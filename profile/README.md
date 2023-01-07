@@ -27,7 +27,7 @@ Nightwatch is an integrated testing framework powered by Node.js and using the [
 $ npm init nightwatch@latest
 
 # if you want to initialize a new project
-$ nightwatch@latest path/to/new/project
+$ npm init nightwatch@latest path/to/new/project
 ```
 
 [discord-badge]: https://img.shields.io/discord/618399631038218240.svg?color=7389D8&labelColor=6A7EC2&logo=discord&logoColor=ffffff&style=flat-square
