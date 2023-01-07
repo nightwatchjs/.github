@@ -17,7 +17,7 @@
 Nightwatch is an integrated testing framework powered by Node.js and using the [W3C Webdriver API](https://www.w3.org/TR/webdriver/). It is a complete testing solution developed at [BrowserStack](https://www.browserstack.com/) and which can be used for: 
 
 ☑️ end-to-end testing of web applications and websites<br>
-☑️ component testing in isolation (React / Vue)<br>
+☑️ component testing in isolation (Storybook / React / Vue / Vite)<br>
 ☑️ Node.js unit and API testing
 
 ## ⚙️ Get started with Nightwatch in 60 seconds
