@@ -34,5 +34,9 @@ $ npm init nightwatch@latest
 $ npm init nightwatch@latest path/to/new/project
 ```
 
+## Nightwatch Examples
+
+For various Nightwatch samples and boilerplate projects, check out the [Nightwatch Community](https://github.com/nightwatchjs-community).
+
 [discord-badge]: https://img.shields.io/discord/618399631038218240.svg?color=7389D8&labelColor=6A7EC2&logo=discord&logoColor=ffffff&style=flat-square
 [discord]: https://discord.gg/SN8Da2X
